@@ -1,0 +1,36 @@
+<div class="carousel">
+						<div class="slide">
+							<div id="scrollbox1" data-role="scrollbox2" data-scroll="both" class="readable-text">
+								Americans say they are deeply concerned about privacy on the web and their cellphones. They say they do not trust Internet companies or the government to protect it. Yet they keep using the services and handing over their personal information.
+								That paradox is captured in a new survey by Pew Research Center. It found that there is no communications channel, including email, cellphones or landlines, that the majority of Americans feel very secure using when sharing personal information. Of all the forms of communication, they trust landlines the most, and fewer and fewer people are using them.
+								Distrust of digital communication has only increased, Pew found, with the young expressing the most concern by some measures, in the wake of the revelations by Edward Snowden about online surveillance by the government. Yet Americans for now seem to grudgingly accept that these are the trade-offs of living in the digital age — or else they fear that it is too late to do anything about it.
+							</div>
+							<div class="panel collapsed" id="panel_similarity" data-role="panel">
+								<div class="panel-header bg-lightGreen fg-white">
+								Documents Similarity
+								</div>
+								<div style=display:none; class="panel-content bg-white fg-dark nlp nrp">
+									<h3><center>0.25</h3></center>
+								</div>
+							</div>
+						</div>
+					 
+						<div class="slide">
+							<div id="scrollbox1" data-role="scrollbox2" data-scroll="both" class="readable-text">
+								Americans say they are deeply concerned about privacy on the web and their cellphones. They say they do not trust Internet companies or the government to protect it. Yet they keep using the services and handing over their personal information.
+								That paradox is captured in a new survey by Pew Research Center. It found that there is no communications channel, including email, cellphones or landlines, that the majority of Americans feel very secure using when sharing personal information. Of all the forms of communication, they trust landlines the most, and fewer and fewer people are using them.
+								Distrust of digital communication has only increased, Pew found, with the young expressing the most concern by some measures, in the wake of the revelations by Edward Snowden about online surveillance by the government. Yet Americans for now seem to grudgingly accept that these are the trade-offs of living in the digital age — or else they fear that it is too late to do anything about it.
+							</div>
+							<div class="panel collapsed" id="panel_similarity" data-role="panel">
+								<div class="panel-header bg-lightGreen fg-white">
+								Documents Similarity
+								</div>
+								<div style=display:none; class="panel-content bg-white fg-dark nlp nrp">
+									<h3><center>0.25</h3></center>
+								</div>
+							</div>
+						</div>
+					 
+						<a class="controls left"><i class="icon-arrow-left-3"></i></a>
+						<a class="controls right"><i class="icon-arrow-right-3"></i></a>
+					</div>
